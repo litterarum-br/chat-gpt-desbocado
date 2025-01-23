@@ -8,11 +8,16 @@ Este é o template inicial de projetos em python.
     Em algumas vezes é necessária a instalação dos pacotes para isso sigas os passos abaixo:
 
     1.1 Entre com o prompt de comando cmd dentro da pasta raiz do projeto.
+
     2.2 Digite "pip install -r .\src\requirements.txt"
 
 2.	Software dependencies
 
     2.1 Open IA
+        
+        O projeto template já possui uma chave de utilização que está no arquivo arquivo_env.txt
+        
+        Para usar devemos alterar o nome desse arquivos para .env assim o projeto irá reconhecer a chave criada.
 
         Caso seja necessário criar uma nova API Keys seguir os seguintes passos
 
